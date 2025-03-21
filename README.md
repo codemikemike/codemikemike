@@ -1,5 +1,4 @@
 ![Profile views](https://komarev.com/ghpvc/?username=codemikemike&style=flat-square&label=Profile%20Views&color=000000&labelColor=000000)
-
 ## 🧰 My Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -11,7 +10,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-
 
 ## Hi there 👋
 
