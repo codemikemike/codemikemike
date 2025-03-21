@@ -1,4 +1,4 @@
-![Views](https://komarev.com/ghpvc/?username=codemikemike&style=for-the-badge&color=brightgreen)
+![Profile views](https://komarev.com/ghpvc/?username=codemikemike&style=flat-square&label=Profile%20Views&color=000000&labelColor=000000)
 
 ## 🧰 My Skills
 
