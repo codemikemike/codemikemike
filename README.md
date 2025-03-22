@@ -7,7 +7,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Profile Views](https://img.shields.io/badge/Profile%20Views-black?style=for-the-badge&logo=github&labelColor=000000&color=000000)<a href="https://github.com/codemikemike">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Profile Views](https://img.shields.io/badge/Profile%20Views-black?style=for-the-badge&logo=github&labelColor=000000&color=000000)<a href="https://github.com/codemikemike">
   <img src="https://profile-counter.glitch.me/codemikemike/count.svg" alt="Profile Views" style="height:28px;">
 </a>
 
@@ -95,7 +95,7 @@ I'm a junior computer science student & C# enthusiast with a passion for buildin
 
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="7">
-    🚀 Always pushing code • 🌍 Learning out loud • 💬 Open for collabs • 🧠 Markdown wizard in training • 🎮 Building games & apps in C#!
+    🚀 Always pushing code • 🌍 Learning out loud • 💬 Open for collabs • 🧠 Markdown wizard in training • 🎮 Building systems in C#!
   </marquee>
 </p>
 
