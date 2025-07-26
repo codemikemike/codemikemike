@@ -20,11 +20,35 @@
 ## 🧰 My Skills
 
 
-I'm a junior computer science student & C# enthusiast with a passion for building fun, creative, and useful things — from car apps to recycling-game systems 🚗♻️
+I'm a junior Computer Science AP student & C# enthusiast with a passion for building fun, creative, and useful things in Visual Studio 2022 and JetBrains Rider IDE 🚗♻️
 
-- 🌱 Currently learning: .NET, GitHub Actions, GitHub Pages  
-- 🔭 Working on: CarApp 🚘 and GenSpil recycling-game system 🕹️  
-- 💬 Ask me about: Git, C#, Markdown, HTML5, CSS3 or how to make basic interactive websites with JavaScript 😎  
+## :desktop_computer: Projects & Experience
+
+### :star2: Final Big Semester Project: GettingReal
+
+This was a very big and important project during my 1st semester in Computer Science AP.  
+Together with my school team#11, we created **GettingReal**, an app designed to keep track of items stored in boxes at a warehouse.  
+This project was developed **in collaboration with the real company 451Grader**, giving us valuable industry experience.
+
+### :car: Car App
+
+A project where I developed a car management app aimed to help users infos about vehicle's details, cost of tour, and other details  — practical and user-friendly.
+
+### :recycle: GenSpil (Genbrugs brætspil lager system)
+
+A recycling-themed board game inventory system that I built together with my school team#14, focusing on managing and organizing board games related to sustainability and reuse.
+
+### :computer: Hobby GitHub Education Courses
+
+To boost my skills, I completed several GitHub education courses including:  
+- skills-introduction-to-github  
+- skills-markdown  
+- skills-github-pages  
+- skills-hello-github-actions  
+
+### :keyboard: My First C# Project
+
+The legendary **Hello World** print program — the start of my Coding journey!
 
 
 ## 🧪 Live Projects On GitHub
