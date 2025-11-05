@@ -10,13 +10,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Profile Views](https://komarev.com/ghpvc/?username=codemikemike&style=for-the-badge&color=brightgreen)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ddc66540-24bf-4a83-a0cf-df635b0cee1f" alt="codemikemike" width="300" style="border-radius: 16px;">
+  <img src="https://github.com/user-attachments/assets/ddc66540-24bf-4a83-a0cf-df635b0cee1f" alt="codemikemike" width="400" style="border-radius: 20px;">
 </p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d6b006d5-a4f6-4bc5-8961-44e0fe53128a" alt="C# Dev" width="300" style="border-radius: 16px;">
-</p>
-
 ## 👨‍💻 About Me
 
 I'm a **2nd semester Computer Science AP student** & passionate **C# .NET developer** building real-world applications with:
