@@ -2,122 +2,330 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Profile Views](https://img.shields.io/badge/Profile%20Views-black?style=for-the-badge&logo=github&labelColor=000000&color=000000)<a href="https://github.com/codemikemike">
- </a>
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Profile Views](https://komarev.com/ghpvc/?username=codemikemike&style=for-the-badge&color=brightgreen)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F700&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+codemikemike!;C%23+dev+in+training+%F0%9F%9A%80;Building+cool+stuff+with+.NET;Welcome+to+my+GitHub+profile+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F700&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+codemikemike!+%F0%9F%91%8B;C%23+.NET+Developer+in+Training+%F0%9F%9A%80;Building+WPF+Apps+%26+SQL+Databases+%F0%9F%92%BB;MVVM+Pattern+Enthusiast+%F0%9F%8E%AF;Welcome+to+my+GitHub+Profile!+%E2%9C%A8" alt="Typing SVG" />
 </h1>
 
-## 🧰 My Skills
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d6b006d5-a4f6-4bc5-8961-44e0fe53128a" alt="C# Dev" width="300" style="border-radius: 16px;">
+</p>
 
+## 👨‍💻 About Me
 
-I'm a junior Computer Science AP student & C# enthusiast with a passion for building fun, creative, and useful things in Visual Studio 2022 and JetBrains Rider IDE 🚗♻️
+I'm a **2nd semester Computer Science AP student** & passionate **C# .NET developer** building real-world applications with:
+- 🖥️ **WPF** (Windows Presentation Foundation) using **MVVM pattern**
+- 🗄️ **SQL Server** databases with **SSMS** 
+- 🎯 **Clean Architecture** principles (Repository Pattern, Interfaces, SOLID)
+- ✅ **Test-Driven Development** with MS Test Framework
+- 🔍 **LINQ** queries and **Lambda expressions**
 
-## :desktop_computer: Projects & Experience
+**Currently working with:** Visual Studio 2022 & JetBrains Rider IDE
 
-### :star2: Final Big Semester Project: GettingReal
+---
 
-This was a very big and important project during my 1st semester in Computer Science AP.  
-Together with my school team#11, we created **GettingReal**, an app designed to keep track of items stored in boxes at a warehouse.  
-This project was developed **in collaboration with the real company 451Grader**, giving us valuable industry experience.
+## 🛠️ Tech Stack & Skills
 
-### :car: Car App
+### **Languages & Frameworks**
+![C#](https://img.shields.io/badge/C%23-Expert-239120?style=flat-square&logo=c-sharp)
+![.NET](https://img.shields.io/badge/.NET_Framework-Advanced-512BD4?style=flat-square&logo=dotnet)
+![WPF](https://img.shields.io/badge/WPF-MVVM-0078D6?style=flat-square&logo=windows)
+![SQL](https://img.shields.io/badge/SQL_Server-Database_Design-CC2927?style=flat-square&logo=microsoft-sql-server)
 
-A project where I developed a car management app aimed to help users infos about vehicle's details, cost of tour, and other details  — practical and user-friendly.
+### **Core Competencies**
+```
+✅ C# .NET Development          ✅ SQL Database Design & Optimization
+✅ WPF + MVVM Pattern            ✅ LINQ & Lambda Expressions  
+✅ Repository Pattern            ✅ Unit Testing (MS Test)
+✅ Interfaces & Abstract Classes ✅ ER Diagrams & Normalization (3NF)
+✅ Delegates & Events            ✅ Relational Databases (R-DBMS)
+✅ SOLID Principles              ✅ SQL Injection Prevention
+✅ OOP (4 Pillars)               ✅ Database Design Phases
+✅ Git Version Control           ✅ SSMS (SQL Server Management Studio)
+```
 
-### :recycle: GenSpil (Genbrugs brætspil lager system)
+---
 
-A recycling-themed board game inventory system that I built together with my school team#14, focusing on managing and organizing board games related to sustainability and reuse.
+## 🚀 Featured Projects
 
-### :computer: Hobby GitHub Education Courses
+### 🎓 **2nd Semester Exam Project: Hotel Booking System** *(Current)*
+> **Status:** 🔥 In Development | **Tech:** C# WPF, MVVM, SQL Server, SSMS
 
-To boost my skills, I completed several GitHub education courses including:  
-- skills-introduction-to-github  
-- skills-markdown  
-- skills-github-pages  
-- skills-hello-github-actions  
+A professional hotel management system featuring:
+- 📊 **Business-focused use cases** (Boss Test & EBP validated)
+- 🏨 Room availability tracking & booking management
+- 💰 Payment status tracking for cash flow optimization
+- 📈 Operational planning dashboard with revenue forecasting
+- 🔍 Advanced filtering (date, room, payment status)
+- 🗄️ **3NF normalized database** with ACID compliance
+- ✅ **Full CRUD operations** via Repository Pattern
+- 🎯 **Black-box architecture** with clean separation of concerns
 
-### :keyboard: My First C# Project
+**Key Features:**
+```
+✓ UC01: Register Room Booking (Revenue opportunity secured)
+✓ UC02: View Booking Overview (Operational planning)
+✓ UC02A: View Available Rooms (Maximize occupancy)
+✓ UC03: Update Payment Status (Cash flow tracking)
+✓ UC11: View Booking Details (Customer service excellence)
+```
 
-The legendary **Hello World** print program — the start of my Coding journey!
+---
 
+### 🎮 **Memory Game - C# WPF Edition**
+> **Tech:** C# WPF, MVVM, ObservableCollection, ICommand
 
-## 🧪 Live Projects On GitHub
+A classic memory card matching game with professional implementation:
 
+**Game Rules:**
+- 🎴 4x4 grid with 16 cards (8 pairs)
+- 🔄 Flip two cards at a time
+- ✅ Match = cards stay flipped
+- ❌ No match = cards flip back
+- 🏆 Game ends when all pairs are found
+- ⏱️ Track moves and time for high score
+
+**Technical Highlights:**
+- Implemented using **MVVM pattern**
+- **RelayCommand** for card interactions
+- **ObservableCollection** for real-time UI updates
+- Timer functionality with **DispatcherTimer**
+
+---
+
+### 🛒 **Webshop Case - E-Commerce System**
+> **Tech:** C# .NET, SQL Server, ER Diagrams, Database Design
+
+Comprehensive webshop featuring core e-commerce functionality:
+
+**Business Requirements:**
+- 📦 **Product categorization** & inventory management
+- 👥 **Customer registration** & authentication
+- 🎯 **Points/loyalty system** for customer retention
+- 📋 **Order handling** & payment processing
+- 📦 **Delivery status tracking**
+
+**Database Design:**
+- ER diagrams with proper relationships
+- 3NF normalized schema
+- Implementation in SSMS
+- ACID transaction support
+- SQL injection protection
+
+**Focus Areas:**
+✅ Database design phases  
+✅ Database implementation in practice  
+✅ Critical database concepts & principles
+
+---
+
+### 🎬 **The Movies - Mini Project**
+> **Goal:** Speed-focused system development | **Methodology:** Agile iterations
+
+A fast-paced development project focusing on:
+
+**Development Process:**
+- 🎯 **High Level Design** → Use cases & architecture
+- 🔧 **Low Level Design** → Detailed component design  
+- 💻 **Programming** → Implementation
+- ✅ **Testing** → Unit tests & user acceptance
+
+**Project Rules:**
+- ⚡ Take **smallest possible steps** (atomic use cases)
+- 🏃 Move **quickly through all 4 focus areas**
+- ✨ Maintain **high quality** at every step
+- 🎯 Work on **ONE scenario at a time**
+- ✅ Complete **unit tests & user tests** before moving to next scenario
+
+**Learning Outcomes:**
+- Breaking scenarios into manageable use cases
+- Rapid iteration with quality assurance
+- Test-driven development workflow
+
+---
+
+### ⭐ **1st Semester Final Project: GettingReal**
+> **Tech:** C#, .NET | **Collaboration:** Real company 451Grader
+
+Enterprise warehouse management system developed with **Team #11**:
+- 📦 Track items stored in warehouse boxes
+- 🏢 Real-world industry collaboration experience
+- 👥 Team-based agile development
+- 📊 Inventory management & reporting
+
+---
+
+### 🚗 **Car Management App**
+> **Tech:** C# .NET
+
+Practical vehicle management application:
+- 🚙 Vehicle details & specifications
+- 💵 Tour cost calculations
+- 📊 Maintenance tracking
+- 📈 Usage statistics
+
+---
+
+### ♻️ **GenSpil - Board Game Inventory System** 
+> **Tech:** C# .NET | **Team:** #14
+
+Sustainability-focused board game management:
+- ♻️ Recycling & reuse theme
+- 📦 Inventory organization
+- 🎲 Game cataloging system
+
+---
+
+### 📚 **GitHub Education Courses Completed**
+```
+✅ skills-introduction-to-github  
+✅ skills-markdown  
+✅ skills-github-pages  
+✅ skills-hello-github-actions  
+```
+
+---
+
+### 👶 **My First C# Project**
+The legendary **"Hello World"** 🌍  
+*Where the coding journey began!*
+
+---
+
+## 🧪 Live Projects
 
 🚀 [**My Jekyll Blog**](https://codemikemike.github.io/skills-github-pages/)  
-📝 [**Markdown Showcase Page**](https://codemikemike.github.io/skills-communicate-using-markdown/)
+📝 [**Markdown Showcase**](https://codemikemike.github.io/skills-communicate-using-markdown/)
 
-## 🐍 Contribution Snake (coming soon)
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github.com/codemikemike/codemikemike/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
 
-<sub><i>Note: If the snake doesn't appear, set up the GitHub Action or ping me and I’ll help 😄</i></sub>
+<sub><i>🎮 Watch my commits get eaten by the snake! If it doesn't show, the GitHub Action needs setup.</i></sub>
 
+---
 
-## 🦄 Secret Zone
-
-
-<details>
-  <summary>👀 Want to see something secret?</summary>
-  <br/>
-  🐱‍💻 You found the hidden message!  
-  <br/>
-  <a href="https://letmegooglethat.com/?q=how+to+push+to+main+without+panic" target="_blank">🔍 Secret Google: How to push to main without panic</a>
-</details>
-
-
-## 🎨 Featured Image
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d6b006d5-a4f6-4bc5-8961-44e0fe53128a" alt="C# Dev" width="400" style="border-radius: 16px;">
-</p>
-
-## 🦸‍♂️ GitHub Badges
-
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=codemikemike&theme=tokyonight&no-frame=true&margin-w=10&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
+---
 
-## 📈 GitHub Stats
-
+## 📊 GitHub Stats
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=codemikemike&show_icons=true&theme=tokyonight" width="400"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=codemikemike&show_icons=true&theme=tokyonight&hide_border=true" width="400"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=codemikemike&theme=tokyonight" width="430"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=codemikemike&theme=tokyonight&hide_border=true" width="430"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemikemike&layout=compact&theme=tokyonight" width="435"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemikemike&layout=compact&theme=tokyonight&hide_border=true" width="435"/>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=100&section=footer"/>
-</p>
+---
 
+## 🎯 Current Focus
+```csharp
+public class CurrentGoals 
+{
+    public string[] Focus2025 => new[] 
+    {
+        "🏨 Complete Hotel Booking System exam project",
+        "📚 Master advanced LINQ queries & Lambda expressions",
+        "🗄️ Deep dive into SQL Server optimization",
+        "✅ Expand unit testing coverage (TDD approach)",
+        "🎨 Build more WPF apps with stunning UI/UX",
+        "🚀 Contribute to open-source C# projects"
+    };
+}
+```
+
+---
+
+## 🦄 Secret Developer Zone
+
+<details>
+  <summary>👀 Click if you dare... Secret code inside!</summary>
+  <br/>
+```csharp
+  // 🎉 Congratulations! You found the secret!
+  public class SecretMessage 
+  {
+      public void RevealTruth() 
+      {
+          Console.WriteLine("🐱‍💻 Real developers Google everything!");
+          Console.WriteLine("📚 StackOverflow is our best friend!");
+          Console.WriteLine("☕ Coffee.Count == BugsFixes.Count");
+      }
+  }
+```
+  
+  🔍 [**Emergency Google Search: How to push to main without panic**](https://letmegooglethat.com/?q=how+to+push+to+main+without+panic)
+  
+  **Pro tip:** `git commit -m "Fixed bug (hopefully)"` 😅
+</details>
+
+---
+
+## 💬 Let's Connect!
+```sql
+SELECT * FROM Developers 
+WHERE Skills LIKE '%C#%' 
+  AND Passion = 'High' 
+  AND TeamPlayer = TRUE
+  AND Location = 'Denmark';
+-- Result: You found me! Let's collaborate! 🚀
+```
 
 ---
 
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="7">
-    🚀 Always pushing code • 🌍 Learning out loud • 💬 Open for collabs • 🧠 Markdown wizard in training • 🎮 Building systems in C#!
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" />
+</p>
+
+---
+
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="7" width="90%">
+    🚀 Always pushing code • 🗄️ SQL wizard in training • 💬 Open for collabs • 🧠 MVVM pattern enthusiast • 🎮 Building real-world C# apps • ☕ Powered by coffee and LINQ queries • 🏨 Currently: Hotel Booking System • ✅ TDD advocate • 📊 Database design nerd!
   </marquee>
 </p>
 
-![Fun Fact](https://img.shields.io/badge/Fun%20Fact-I%20push%20to%20main%20in%20school%20projects-orange?style=flat-square)
+![Fun Fact](https://img.shields.io/badge/Fun%20Fact-I%20push%20to%20main%20%26%20test%20in%20production-orange?style=flat-square&logo=github)
+![Code Status](https://img.shields.io/badge/Code%20Status-Compiles%20on%20my%20machine-success?style=flat-square&logo=visual-studio)
+![Coffee](https://img.shields.io/badge/Coffee-Required-brown?style=flat-square&logo=buy-me-a-coffee)
+
+---
+
+<div align="center">
+  
+  ### 🎓 Computer Science AP Student | 💻 C# .NET Developer | 🗄️ Database Enthusiast
+  
+  **"First, solve the problem. Then, write the code."** - John Johnson
+  
+  ⭐ **Star my repos if you find them useful!** ⭐
+  
+</div>
