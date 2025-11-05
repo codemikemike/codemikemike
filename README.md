@@ -9,9 +9,14 @@
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Profile Views](https://komarev.com/ghpvc/?username=codemikemike&style=for-the-badge&color=brightgreen)
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F700&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+codemikemike!+%F0%9F%91%8B;C%23+.NET+Developer+in+Training+%F0%9F%9A%80;Building+WPF+Apps+%26+SQL+Databases+%F0%9F%92%BB;MVVM+Pattern+Enthusiast+%F0%9F%8E%AF;Welcome+to+my+GitHub+Profile!+%E2%9C%A8" alt="Typing SVG" />
+</h1>
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ddc66540-24bf-4a83-a0cf-df635b0cee1f" alt="codemikemike" width="400" style="border-radius: 20px;">
+  <img src="https://github.com/user-attachments/assets/ddc66540-24bf-4a83-a0cf-df635b0cee1f" alt="codemikemike - C# Developer" width="300" style="border-radius: 16px;">
 </p>
+
 ## 👨‍💻 About Me
 
 I'm a **2nd semester Computer Science AP student** & passionate **C# .NET developer** building real-world applications with:
