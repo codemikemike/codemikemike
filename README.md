@@ -84,7 +84,7 @@ A digital operations board for a residential care facility (bosted). Five-projec
 
 ---
 
-### 🏨 Floozys Hotel — *3rd semester exam project* ✅
+### 🏨 Floozys Hotel — *3rd semester exam project (Grade 7)* ✅
 > **Stack:** C# • WPF • MVVM • SQL Server • Entity Framework • MSTest + Moq
 > **Repo:** [`ucl-team-6-eksamensprojekt/Floozys-Hotel`](https://github.com/ucl-team-6-eksamensprojekt/Floozys-Hotel)
 
