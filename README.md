@@ -1,13 +1,6 @@
 <!--
 ================================================================================
   HERO IMAGE — det grønne contribution-billede der staver "codemikemike"
-  
-  Sådan gør du:
-  1. Gå til https://github.com/codemikemike/codemikemike/issues/new
-  2. Drag-and-drop dit ChatGPT_Image_4__maj_2026__01_50_05.png ind i kommentarfeltet
-  3. Vent på upload, kopier det genererede https://github.com/user-attachments/assets/... link
-  4. Luk vinduet UDEN at submit'e issuet
-  5. Erstat <HERO_IMAGE_URL> nedenfor med dit link
 ================================================================================
 -->
 
@@ -52,43 +45,26 @@ fun_fact:    Started in the military, ended up in the terminal
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### Backend & Desktop
-![C#](https://skillicons.dev/icons?i=cs)
-![.NET](https://skillicons.dev/icons?i=dotnet)
-![Blazor](https://skillicons.dev/icons?i=blazor)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-
-</td>
-<td valign="top" width="33%">
-
-### Frontend
-![React](https://skillicons.dev/icons?i=react)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Vite](https://skillicons.dev/icons?i=vite)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-
-</td>
-<td valign="top" width="33%">
-
-### Data & DevOps
-![SQL Server](https://skillicons.dev/icons?i=mysql)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
-![Docker](https://skillicons.dev/icons?i=docker)
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
-![Git](https://skillicons.dev/icons?i=git)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/dotnet-icon.svg" alt=".NET" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/express-icon.svg" alt="Express" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/vite-icon.svg" alt="Vite" width="65" height="65" />
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,react,ts,nodejs,express,vite,docker,githubactions,git,linux,bash,vscode,visualstudio,idea,figma&perline=9" />
+  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML5" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS3" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/sqlite-icon.svg" alt="SQLite" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="VS Code" width="65" height="65" />
 </p>
 
 ### 🏛️ Architecture & Practices
@@ -194,10 +170,6 @@ Started as a hobby, became part of the curriculum. I enjoy the puzzle side of se
 <td>🧩</td><td><strong>TryHackMe</strong></td><td>ongoing learning paths</td>
 </tr>
 </table>
-
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/codemikemike.png" alt="TryHackMe Badge" />
-</p>
 
 ---
 
