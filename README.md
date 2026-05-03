@@ -1,11 +1,5 @@
-<!--
-================================================================================
-  HERO IMAGE — det grønne contribution-billede der staver "codemikemike"
-================================================================================
--->
-
 <p align="center">
-  <img width="2172" height="472" alt="Image" src="https://github.com/user-attachments/assets/8dce1b72-b9de-4dd1-b1db-ff0418b0e75b" />
+  <img src="https://github.com/user-attachments/assets/8dce1b72-b9de-4dd1-b1db-ff0418b0e75b" alt="codemikemike contribution graph" width="100%"/>
 </p>
 
 <h1 align="center">
@@ -45,27 +39,32 @@ fun_fact:    Started in the military, ended up in the terminal
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/dotnet-icon.svg" alt=".NET" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/express-icon.svg" alt="Express" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/vite-icon.svg" alt="Vite" width="65" height="65" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML5" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS3" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/sqlite-icon.svg" alt="SQLite" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="VS Code" width="65" height="65" />
-</p>
+<table>
+<tr>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="48" height="48" /><br>C#</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/dotnet-icon.svg" alt=".NET" width="48" height="48" /><br>.NET</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" /><br>React</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" /><br>TypeScript</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" /><br>JavaScript</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="48" height="48" /><br>Node.js</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/express-icon.svg" alt="Express" width="48" height="48" /><br>Express</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/vite-icon.svg" alt="Vite" width="48" height="48" /><br>Vite</td>
+</tr>
+<tr>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML5" width="48" height="48" /><br>HTML5</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS3" width="48" height="48" /><br>CSS3</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" /><br>MySQL</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/sqlite-icon.svg" alt="SQLite" width="48" height="48" /><br>SQLite</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" /><br>Docker</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" /><br>GitHub</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="48" height="48" /><br>Git</td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="VS Code" width="48" height="48" /><br>VS Code</td>
+</tr>
+</table>
+
+</div>
 
 ### 🏛️ Architecture & Practices
 
