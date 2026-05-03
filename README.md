@@ -39,32 +39,72 @@ fun_fact:    Started in the military, ended up in the terminal
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<table align="center">
+<tr>
+<td valign="top" width="33%" align="center">
 
-<table>
-<tr>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="48" height="48" /><br>C#</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/dotnet-icon.svg" alt=".NET" width="48" height="48" /><br>.NET</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" /><br>React</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" /><br>TypeScript</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" /><br>JavaScript</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="48" height="48" /><br>Node.js</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/express-icon.svg" alt="Express" width="48" height="48" /><br>Express</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/vite-icon.svg" alt="Vite" width="48" height="48" /><br>Vite</td>
-</tr>
-<tr>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML5" width="48" height="48" /><br>HTML5</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS3" width="48" height="48" /><br>CSS3</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" /><br>MySQL</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/sqlite-icon.svg" alt="SQLite" width="48" height="48" /><br>SQLite</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" /><br>Docker</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" /><br>GitHub</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="48" height="48" /><br>Git</td>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/vscode-icon.svg" alt="VS Code" width="48" height="48" /><br>VS Code</td>
+### 🎯 Backend
+<br>
+
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="55" height="55" />
+&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
+
+<br><br>
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF_+_MVVM-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-FF6F00?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+</td>
+<td valign="top" width="33%" align="center">
+
+### 🎨 Frontend
+<br>
+
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
+&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />
+&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
+
+<br><br>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+</td>
+<td valign="top" width="33%" align="center">
+
+### 🗄️ Data & DevOps
+<br>
+
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
+&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
+&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
+
+<br><br>
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Rider](https://img.shields.io/badge/JetBrains_Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</td>
 </tr>
 </table>
-
-</div>
 
 ### 🏛️ Architecture & Practices
 
