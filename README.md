@@ -1,22 +1,38 @@
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Profile Views](https://komarev.com/ghpvc/?username=codemikemike&style=for-the-badge&color=brightgreen)
+<!--
+================================================================================
+  HERO IMAGE — det grønne contribution-billede der staver "codemikemike"
+  
+  Sådan gør du:
+  1. Gå til https://github.com/codemikemike/codemikemike/issues/new
+  2. Drag-and-drop dit ChatGPT_Image_4__maj_2026__01_50_05.png ind i kommentarfeltet
+  3. Vent på upload, kopier det genererede https://github.com/user-attachments/assets/... link
+  4. Luk vinduet UDEN at submit'e issuet
+  5. Erstat <HERO_IMAGE_URL> nedenfor med dit link
+================================================================================
+-->
+
+<p align="center">
+  <img width="2172" height="724" alt="Image" src="https://github.com/user-attachments/assets/95fc4e72-829c-4d1c-8e59-f3a66730bcfd" />
+</p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F700&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Michael+%E2%80%94+codemikemike+%F0%9F%91%8B;Full-stack+.NET+%26+Web+Developer;Blazor+%E2%80%A2+React+%E2%80%A2+Clean+Architecture;CTF+player+%26+TryHackMe+enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F700&center=true&vCenter=true&width=700&height=50&lines=Hi%2C+I'm+Michael+%E2%80%94+codemikemike;Full-stack+.NET+%26+Web+Developer;Blazor+%E2%80%A2+React+%E2%80%A2+Clean+Architecture;CTF+player+%E2%80%A2+TryHackMe+enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ddc66540-24bf-4a83-a0cf-df635b0cee1f" alt="codemikemike" width="280" style="border-radius: 16px;">
+  <a href="https://github.com/codemikemike?tab=repositories">
+    <img src="https://img.shields.io/badge/-Repositories-00F700?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+  <a href="https://github.com/codemikemike?tab=followers">
+    <img src="https://img.shields.io/github/followers/codemikemike?style=for-the-badge&color=00F700&labelColor=000000&logo=github&logoColor=00F700" />
+  </a>
+  <a href="https://www.linkedin.com/in/codemikemike/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=codemikemike&style=for-the-badge&color=00F700&base=400" />
 </p>
+
+---
 
 ## 👨‍💻 About
 
@@ -24,41 +40,59 @@
 
 I care about the **why** behind design decisions: SOLID, GRASP, GoF patterns, Clean Architecture and MDA aren't just acronyms in my notes — they're how I actually structure projects.
 
+```yaml
+location:    Hjørring, Denmark 🇩🇰
+education:   UCL — Computer Science AP (3rd semester)
+focus:       .NET, Blazor, Clean Architecture
+hobbies:     CTF, TryHackMe, drone tech
+fun_fact:    Started in the military, ended up in the terminal
+```
+
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend & Desktop**
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET 8/10](https://img.shields.io/badge/.NET_8%2F10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF_+_MVVM-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Dapper](https://img.shields.io/badge/Dapper-FF6F00?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+<table>
+<tr>
+<td valign="top" width="33%">
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### Backend & Desktop
+![C#](https://skillicons.dev/icons?i=cs)
+![.NET](https://skillicons.dev/icons?i=dotnet)
+![Blazor](https://skillicons.dev/icons?i=blazor)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
 
-**Databases**
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+</td>
+<td valign="top" width="33%">
 
-**DevOps & Tooling**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Rider](https://img.shields.io/badge/JetBrains_Rider-000000?style=flat-square&logo=rider&logoColor=white)
+### Frontend
+![React](https://skillicons.dev/icons?i=react)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Vite](https://skillicons.dev/icons?i=vite)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
-### Architecture & Practices
+</td>
+<td valign="top" width="33%">
+
+### Data & DevOps
+![SQL Server](https://skillicons.dev/icons?i=mysql)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
+![Docker](https://skillicons.dev/icons?i=docker)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+![Git](https://skillicons.dev/icons?i=git)
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,react,ts,nodejs,express,vite,docker,githubactions,git,linux,bash,vscode,visualstudio,idea,figma&perline=9" />
+</p>
+
+### 🏛️ Architecture & Practices
+
 ```
 ✅ Clean Architecture            ✅ MVVM Pattern
 ✅ SOLID + GRASP + GoF Patterns  ✅ Repository Pattern
@@ -102,7 +136,7 @@ Hotel booking management system delivered with **Team 6 (5 people)**. Full domai
 > **Stack:** React • TypeScript • Vite • Express.js • SQLite • Node.js
 > **Repo:** [`codemikemike/react01`](https://github.com/codemikemike/react01)
 
-Fullstack JavaScript/TypeScript app applying Clean Architecture principles to the frontend. Hosted on Hostinger Business plan with Node.js support.
+Fullstack JavaScript/TypeScript app applying Clean Architecture principles to the frontend.
 
 ---
 
@@ -124,7 +158,7 @@ Accounting management system with **14 repositories** following the Repository P
 ### 🛒 ReolMarked / Middelby Reolmarked
 > **Stack:** C# • WPF • MVVM • Dapper • SQL Server
 
-Shelf-rental marketplace with barcode scanning and monthly settlement logic. Iteratively developed with focus on a clean MVVM architecture.
+Shelf-rental marketplace with barcode scanning and monthly settlement logic.
 
 <details>
 <summary>📦 Earlier projects</summary>
@@ -143,34 +177,26 @@ Shelf-rental marketplace with barcode scanning and monthly settlement logic. Ite
 
 Started as a hobby, became part of the curriculum. I enjoy the puzzle side of security work — pentest reports, hash cracking, container security, and reading writeups for fun.
 
-- 🏴 **DDC (Danish Defence Challenge)** — *"Jeffs Verden"*
-- 🎓 **FE Hackerakademiet** — *"Operation Bad Primate"* full pentest report
-- 🔓 **Hash cracking** — yescrypt via John the Ripper in Docker
-- 🔐 **Docker TLS** challenges
-- 🧩 **TryHackMe** — ongoing learning paths
-
----
-
-## 📊 GitHub Stats
-
 <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=codemikemike&show_icons=true&theme=tokyonight&hide_border=true" width="400"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=codemikemike&theme=tokyonight&hide_border=true" width="430"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codemikemike&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="500"/>
-    </td>
-  </tr>
+<tr>
+<td>🏴</td><td><strong>DDC (Danish Defence Challenge)</strong></td><td><em>"Jeffs Verden"</em></td>
+</tr>
+<tr>
+<td>🎓</td><td><strong>FE Hackerakademiet</strong></td><td><em>"Operation Bad Primate"</em> full pentest report</td>
+</tr>
+<tr>
+<td>🔓</td><td><strong>Hash cracking</strong></td><td>yescrypt via John the Ripper in Docker</td>
+</tr>
+<tr>
+<td>🔐</td><td><strong>Docker TLS</strong></td><td>certificate-based container security</td>
+</tr>
+<tr>
+<td>🧩</td><td><strong>TryHackMe</strong></td><td>ongoing learning paths</td>
+</tr>
 </table>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codemikemike&theme=tokyonight&no-frame=true&margin-w=10&rank=SSS,SS,S,AAA,AA,A,B" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/codemikemike.png" alt="TryHackMe Badge" />
 </p>
 
 ---
@@ -178,7 +204,11 @@ Started as a hobby, became part of the curriculum. I enjoy the puzzle side of se
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/codemikemike/codemikemike/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codemikemike/codemikemike/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codemikemike/codemikemike/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codemikemike/codemikemike/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -219,5 +249,5 @@ public class Reality
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00F700&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontColor=ffffff&fontSize=24&animation=fadeIn"/>
 </p>
